@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--DbAppVer="18.0.4.0005" DbPrjVer="11"-->
+<Sm2MpFolder DbId="5cce6d41-6306-4e48-9ba2-4a244b5091e3">
+ <FieldsBlob>0000000200000007802088e6dab30c</FieldsBlob>
+ <Name>Master</Name>
+ <UniqueMediaPoolItemId>8f460db4-25c3-4010-bd22-ecc310b5b4e5</UniqueMediaPoolItemId>
+ <MediaVec/>
+ <MediaPool>0f7c256f-146a-4fdc-ac3a-b7abec58defd</MediaPool>
+ <Folded>false</Folded>
+ <ColorTag>FOLDER_COLOR_NONE</ColorTag>
+ <LockSysId/>
+ <DbSavedTime>595261921</DbSavedTime>
+</Sm2MpFolder>
