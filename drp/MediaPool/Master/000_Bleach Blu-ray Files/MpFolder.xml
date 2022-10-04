@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--DbAppVer="18.0.4.0005" DbPrjVer="11"-->
+<Sm2MpFolder DbId="7ba381bf-2753-423f-a085-f8117e9ef554">
+ <FieldsBlob>00000002000000dc8128b52ffd607b008d0600124f2421c025cd019b5cffdf0ee8ffb54a29373f5b19b9f7de72cb859f06d82cb95aeb84a408c5e220a1804031b2aa713da24d538f4a5fb7ad4c7475ddc660932c724dbab75d2ad4989e66f2745354d9dad11adf827cd766f9324f6492198f8fc9a22dea3217842e95c9b455b26d9abae79165aae7aa6cca154dcf65f3e822d55735f8c3918603bc7003c20042b1482404020e011800702b18c4aeeeac099325d37337f6cd501bf1b0590bc37a2a7fd0668a460ca657fbd004e0d582e8d66312d3b6a0f2b5701a57ad0214d18214ee55f6</FieldsBlob>
+ <Name>Bleach Blu-ray Files</Name>
+ <MpFolder>5cce6d41-6306-4e48-9ba2-4a244b5091e3</MpFolder>
+ <UniqueMediaPoolItemId>9a02aafa-ac18-4a75-ba7b-f0989e8ce5e5</UniqueMediaPoolItemId>
+ <MediaVec/>
+ <MediaPool>0f7c256f-146a-4fdc-ac3a-b7abec58defd</MediaPool>
+ <Folded>false</Folded>
+ <ColorTag>FOLDER_COLOR_NONE</ColorTag>
+ <LockSysId/>
+ <DbSavedTime>1590322775</DbSavedTime>
+</Sm2MpFolder>

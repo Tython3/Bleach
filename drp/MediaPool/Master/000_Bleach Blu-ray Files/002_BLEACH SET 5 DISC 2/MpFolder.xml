@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--DbAppVer="18.0.4.0005" DbPrjVer="11"-->
+<Sm2MpFolder DbId="78e2d2b8-ef10-4b53-8f78-caf39f72df0d">
+ <FieldsBlob>00000002000000678128b52ffd2075ed020042c6131fb027ad01a025b94dd12549863ddafa882537b237c926f80b4d3426388a6d290a14411c8682ca329d6dabae6b13317119d95465b6376d9f87cff42ed966e375ae8a4fbe0c00be202850f4880c04490300a841060675f733a704</FieldsBlob>
+ <Name>BLEACH SET 5 DISC 2</Name>
+ <MpFolder>7ba381bf-2753-423f-a085-f8117e9ef554</MpFolder>
+ <UniqueMediaPoolItemId>6ea62d0b-2264-4810-816e-9abf6f36b9b0</UniqueMediaPoolItemId>
+ <MediaVec/>
+ <MediaPool>0f7c256f-146a-4fdc-ac3a-b7abec58defd</MediaPool>
+ <Folded>false</Folded>
+ <ColorTag>FOLDER_COLOR_NONE</ColorTag>
+ <LockSysId/>
+ <DbSavedTime>1739810233</DbSavedTime>
+</Sm2MpFolder>

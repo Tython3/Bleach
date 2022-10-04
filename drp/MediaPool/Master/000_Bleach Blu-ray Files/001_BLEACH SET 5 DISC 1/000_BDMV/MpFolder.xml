@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--DbAppVer="18.0.4.0005" DbPrjVer="11"-->
+<Sm2MpFolder DbId="ed4eca00-5054-4a8a-8553-202392d3c6d6">
+ <FieldsBlob>00000002000000668128b52ffd2075e50200f205131eb027ad015561d625c030384736111fb1a4c57bb78dbed0446382a3d8960289f3341e86c2619ac8b6eb7a4b44f436d58b2e5b56a96d8a32954de6cade54f1c89501c01784c479188e8100090400d420ebcd6b6c69cfae5302</FieldsBlob>
+ <Name>BDMV</Name>
+ <MpFolder>ddbd624e-5c0d-4027-97df-5e5a3b5bc0dd</MpFolder>
+ <UniqueMediaPoolItemId>6469125a-5949-4b76-8956-586f5b417f64</UniqueMediaPoolItemId>
+ <MediaVec/>
+ <MediaPool>0f7c256f-146a-4fdc-ac3a-b7abec58defd</MediaPool>
+ <Folded>false</Folded>
+ <ColorTag>FOLDER_COLOR_NONE</ColorTag>
+ <LockSysId/>
+ <DbSavedTime>1642559851</DbSavedTime>
+</Sm2MpFolder>
