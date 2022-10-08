@@ -12,12 +12,12 @@
     <Sequence>ae5cd357-7b32-42b3-9214-1c54ea7bdcdb</Sequence>
     <Items>
      <Element>
-      <Sm2TiVideoClip DbId="c8402e20-718b-41fc-90e6-31a03da740dd">
-       <FieldsBlob>00000002000000618128b52ffd2079bd02002206121db027ad010cc3300cc3e0ae65239451725abbc44a76bcca35426bd5480a29a5f481828141602aefd944efe1b5f72451a6703179bca861f36895a7a25d5a24e2eb4880f1442d75150400e0c681d36e6965d77501</FieldsBlob>
+      <Sm2TiVideoClip DbId="dffa343b-89be-4953-83a7-72236d4efb2d">
+       <FieldsBlob>000000020000005f8128b52ffd2079ad02007206121cc025ad01ffffffff7faf5c6df3cecd768d90b6177f041ac0d00221296badf580014131485ec2f4989a6821aa9ee54d9e6a699af758a6288a2c11d39b389186b79b46f183293b0b0300046e2270d7994302</FieldsBlob>
        <PrettyType/>
        <Name>00002.m2ts</Name>
        <Start>86400</Start>
-       <Duration>29263</Duration>
+       <Duration>28159</Duration>
        <LinkedItemSync/>
        <WasDisbanded>false</WasDisbanded>
        <MarkersBA/>
@@ -29,7 +29,7 @@
        <RenderTextEnabled>true</RenderTextEnabled>
        <RenderTextGanged>true</RenderTextGanged>
        <RenderTextPrefixed>true</RenderTextPrefixed>
-       <In>2408</In>
+       <In>3512</In>
        <MixedFrameRateAlignment>0</MixedFrameRateAlignment>
        <MediaRef>03c0c765-6dfa-4e73-9f67-96a65b9527dc</MediaRef>
        <MediaStartTime>0</MediaStartTime>
@@ -50,7 +50,7 @@
        <PreConformMediaExtents>00000100000030c20000010000003042</PreConformMediaExtents>
        <MediaMetadata/>
        <Thumbnail>
-        <BtThumnail DbId="cf316637-1e11-46c1-999b-0af5550d8f34">
+        <BtThumnail DbId="684e1acc-920c-4d7d-8edc-24760996fdf4">
          <FieldsBlob/>
          <ImgWidth>-1</ImgWidth>
          <ImgHeight>-1</ImgHeight>
@@ -76,12 +76,12 @@
     <Sequence>ae5cd357-7b32-42b3-9214-1c54ea7bdcdb</Sequence>
     <Items>
      <Element>
-      <Sm2TiAudioClip DbId="03a3d163-c87e-4f5e-b74e-1e3e9e7c1e6b">
-       <FieldsBlob>000000020000004e8128b52ffd206725020002060f1490b75903444dcfc471c146266b19cccd871abfa5440045af793c51e33d4ba3154cefa04d1e96a6354496477b8b69f19ac824e1eb1740bc50a752050100670e09</FieldsBlob>
+      <Sm2TiAudioClip DbId="5151ce8b-5228-4e00-a1fe-1a26208483ef">
+       <FieldsBlob>000000020000004f8128b52ffd20672d0200b2850e1480a95a031c8a2962570b7b44fdb2321784e34e01239096e8aa9a29e12d4b22493cef0e164d52458b85247acd7bae6b6a78bb2060fc60c7940502007053c0338704</FieldsBlob>
        <PrettyType/>
        <Name>00002.m2ts</Name>
        <Start>86400</Start>
-       <Duration>29263</Duration>
+       <Duration>28159</Duration>
        <LinkedItemSync/>
        <WasDisbanded>false</WasDisbanded>
        <MarkersBA/>
@@ -93,7 +93,7 @@
        <RenderTextEnabled>false</RenderTextEnabled>
        <RenderTextGanged>false</RenderTextGanged>
        <RenderTextPrefixed>false</RenderTextPrefixed>
-       <In>2408</In>
+       <In>3512</In>
        <MixedFrameRateAlignment>0</MixedFrameRateAlignment>
        <MediaRef>03c0c765-6dfa-4e73-9f67-96a65b9527dc</MediaRef>
        <MediaStartTime>0</MediaStartTime>
