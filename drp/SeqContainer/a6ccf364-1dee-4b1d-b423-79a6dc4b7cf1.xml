@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--DbAppVer="18.0.4.0005" DbPrjVer="11"-->
 <Sm2SequenceContainer DbId="a6ccf364-1dee-4b1d-b423-79a6dc4b7cf1">
- <FieldsBlob>000000010000000100000016004400620053006100760065006400540069006d00650000000400000000050e24a60d</FieldsBlob>
+ <FieldsBlob>000000010000000100000016004400620053006100760065006400540069006d0065000000040000000006311d4282</FieldsBlob>
  <VideoTrackVec>
   <Element>
    <Sm2TiTrack DbId="c595ca16-40fd-412f-b461-f5a89e75d411">
@@ -12,12 +12,12 @@
     <Sequence>4ff0372a-cb85-489f-b29a-62c73fc28700</Sequence>
     <Items>
      <Element>
-      <Sm2TiVideoClip DbId="afa11c75-8fa8-4be6-8ca3-4b8d8a5d544e">
-       <FieldsBlob>00000002000000638128b52ffd2079cd02007206131ec025ad01ffffffff7f2f69bb11be3830bb11d208d9453f810630b440760aadb5f68001c1192cd723cb32934d55419bc663219a2212225135c92a513665a62b525d0d7f3716e7875b2e71010300e066f052779fb92e</FieldsBlob>
+      <Sm2TiVideoClip DbId="e9e83081-c885-4315-9432-4e74f656682f">
+       <FieldsBlob>00000002000000628128b52ffd2079c502008205111db027ad010cc3300cc3e01c5962e62316495a90d48c02bb26b04d909d0229a5f48001811924d123b2b75c3c95f7264f7b11d21e1ecfc2458934b488af131ae6895214aa0600b8494dddf854635ae44bb9eccc2101</FieldsBlob>
        <PrettyType/>
-       <Name>00000.m2ts</Name>
+       <Name>00012.m2ts</Name>
        <Start>86400</Start>
-       <Duration>27809</Duration>
+       <Duration>35240</Duration>
        <LinkedItemSync/>
        <WasDisbanded>false</WasDisbanded>
        <MarkersBA/>
@@ -29,14 +29,14 @@
        <RenderTextEnabled>true</RenderTextEnabled>
        <RenderTextGanged>true</RenderTextGanged>
        <RenderTextPrefixed>true</RenderTextPrefixed>
-       <In>3879</In>
+       <In/>
        <MixedFrameRateAlignment>0</MixedFrameRateAlignment>
-       <MediaRef>4550d10a-435f-4858-b36b-9292f0b59b5e</MediaRef>
+       <MediaRef>031e6836-f93d-43d0-915b-66a19b60669d</MediaRef>
        <MediaStartTime>0</MediaStartTime>
-       <MediaFilePath>S:\Video-Files\Bleach Blu-ray Files\BLEACH SET 5 DISC 2\BDMV\STREAM\00000.m2ts</MediaFilePath>
+       <MediaFilePath>S:\Video-Files\Bleach Blu-ray Files\BLEACH SET 5 DISC 2\BDMV\STREAM\00012.m2ts</MediaFilePath>
        <MediaReelNumber/>
        <MediaFrameRate>872211b5dcf937400000000000000000</MediaFrameRate>
-       <MediaTimemapBA>024096ffe1cac08312</MediaTimemapBA>
+       <MediaTimemapBA>024096f70a32846ff4</MediaTimemapBA>
        <LastChangedTime>0</LastChangedTime>
        <LastRenderedTime>0</LastRenderedTime>
        <IsMarkedForCaching>false</IsMarkedForCaching>
@@ -45,12 +45,12 @@
        <UseOppositeSrcForLeftEye>false</UseOppositeSrcForLeftEye>
        <UseOppositeSrcForRightEye>false</UseOppositeSrcForRightEye>
        <RenderCacheBA/>
-       <CurrentSelectorIdx>613</CurrentSelectorIdx>
+       <CurrentSelectorIdx>749</CurrentSelectorIdx>
        <IsPreConformed>false</IsPreConformed>
        <PreConformMediaExtents>00000100000030c20000010000003042</PreConformMediaExtents>
        <MediaMetadata/>
        <Thumbnail>
-        <BtThumnail DbId="a29fc1c8-5446-490d-9b0c-922b6cc2d5c8">
+        <BtThumnail DbId="93f8bee1-6240-4cdf-b87b-f1830d297e18">
          <FieldsBlob/>
          <ImgWidth>-1</ImgWidth>
          <ImgHeight>-1</ImgHeight>
@@ -76,12 +76,12 @@
     <Sequence>4ff0372a-cb85-489f-b29a-62c73fc28700</Sequence>
     <Items>
      <Element>
-      <Sm2TiAudioClip DbId="92491b1d-7d62-45c1-830f-1b72f6bdd39a">
-       <FieldsBlob>000000020000004e8128b52ffd2067250200f2440d1390a959035452bcd3112d8834684dd5b31a68a723909ae6593caf2ddae0458429a2499a25cf42b42c6fe2357c5d10307ea8ab5401040020f5cde65153bc338704</FieldsBlob>
+      <Sm2TiAudioClip DbId="379d79f2-4839-4e53-b55d-cf795348e4eb">
+       <FieldsBlob>000000020000004f8128b52ffd20672d020062050e1490b75903f27f7f7d255a707bdbf299b9206a96a405902cda343da64934f0a26681108da879b4b6d024dad3682ff20abe7e0ee58322d45503002f22dc72cb99eb02</FieldsBlob>
        <PrettyType/>
-       <Name>00000.m2ts</Name>
+       <Name>00012.m2ts</Name>
        <Start>86400</Start>
-       <Duration>27809</Duration>
+       <Duration>35240</Duration>
        <LinkedItemSync/>
        <WasDisbanded>false</WasDisbanded>
        <MarkersBA/>
@@ -93,14 +93,14 @@
        <RenderTextEnabled>false</RenderTextEnabled>
        <RenderTextGanged>false</RenderTextGanged>
        <RenderTextPrefixed>false</RenderTextPrefixed>
-       <In>3879</In>
+       <In/>
        <MixedFrameRateAlignment>0</MixedFrameRateAlignment>
-       <MediaRef>4550d10a-435f-4858-b36b-9292f0b59b5e</MediaRef>
+       <MediaRef>031e6836-f93d-43d0-915b-66a19b60669d</MediaRef>
        <MediaStartTime>0</MediaStartTime>
-       <MediaFilePath>S:\Video-Files\Bleach Blu-ray Files\BLEACH SET 5 DISC 2\BDMV\STREAM\00000.m2ts</MediaFilePath>
+       <MediaFilePath>S:\Video-Files\Bleach Blu-ray Files\BLEACH SET 5 DISC 2\BDMV\STREAM\00012.m2ts</MediaFilePath>
        <MediaReelNumber/>
        <MediaFrameRate>872211b5dcf937400000000000000000</MediaFrameRate>
-       <MediaTimemapBA>024096ffe1cac08312</MediaTimemapBA>
+       <MediaTimemapBA>024096f70a32846ff4</MediaTimemapBA>
        <LastChangedTime>0</LastChangedTime>
        <LastRenderedTime>0</LastRenderedTime>
        <IsMarkedForCaching>false</IsMarkedForCaching>
