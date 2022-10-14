@@ -17,7 +17,7 @@
        <PrettyType/>
        <Name>00001.m2ts</Name>
        <Start>86400</Start>
-       <Duration>26522</Duration>
+       <Duration>11201</Duration>
        <LinkedItemSync/>
        <WasDisbanded>false</WasDisbanded>
        <MarkersBA/>
@@ -50,7 +50,56 @@
        <PreConformMediaExtents>00000100000030c20000010000003042</PreConformMediaExtents>
        <MediaMetadata/>
        <Thumbnail>
-        <BtThumnail DbId="f80d5862-80fc-45b5-a699-80080db6a882">
+        <BtThumnail DbId="1855cc87-1874-4bca-b52c-2d400a95aaf7">
+         <FieldsBlob/>
+         <ImgWidth>-1</ImgWidth>
+         <ImgHeight>-1</ImgHeight>
+         <Buffer/>
+        </BtThumnail>
+       </Thumbnail>
+       <ThumbnailDirtyFlag>true</ThumbnailDirtyFlag>
+      </Sm2TiVideoClip>
+     </Element>
+     <Element>
+      <Sm2TiVideoClip DbId="d1a0315c-3b30-42bb-9f0c-85ecb8b3e41c">
+       <FieldsBlob>00000002000000618128b52ffd2079bd0200d285111db027ad010cc3300cc3e0aedde3da1405105b6bcb4667764d609b203b05adb5f680010119a8a6598f2c7a12aae5aa2ea6257ac89e539ee98a88161e0d137f370d72c5a563170500b841c979dfd2ae35853b7348</FieldsBlob>
+       <PrettyType/>
+       <Name>00001.m2ts</Name>
+       <Start>97601</Start>
+       <Duration>15222</Duration>
+       <LinkedItemSync/>
+       <WasDisbanded>false</WasDisbanded>
+       <MarkersBA/>
+       <UiMemento>0</UiMemento>
+       <Flags>0</Flags>
+       <PriorityIndex>0</PriorityIndex>
+       <EffectFiltersBA/>
+       <ImportExportMetadataBA/>
+       <RenderTextEnabled>true</RenderTextEnabled>
+       <RenderTextGanged>true</RenderTextGanged>
+       <RenderTextPrefixed>true</RenderTextPrefixed>
+       <In>16463</In>
+       <MixedFrameRateAlignment>0</MixedFrameRateAlignment>
+       <MediaRef>f4ed09fb-ea95-4d3e-8bc2-37334bb5ace9</MediaRef>
+       <MediaStartTime>0</MediaStartTime>
+       <MediaFilePath>S:\Video-Files\Bleach Blu-ray Files\BLEACH SET 5 DISC 2\BDMV\STREAM\00001.m2ts</MediaFilePath>
+       <MediaReelNumber/>
+       <MediaFrameRate>872211b5dcf937400000000000000000</MediaFrameRate>
+       <MediaTimemapBA>024096fd0bbbbbbbbb</MediaTimemapBA>
+       <LastChangedTime>0</LastChangedTime>
+       <LastRenderedTime>0</LastRenderedTime>
+       <IsMarkedForCaching>false</IsMarkedForCaching>
+       <IsForceConformed>true</IsForceConformed>
+       <MatchConflictState>0</MatchConflictState>
+       <UseOppositeSrcForLeftEye>false</UseOppositeSrcForLeftEye>
+       <UseOppositeSrcForRightEye>false</UseOppositeSrcForRightEye>
+       <RenderCacheBA/>
+       <CurrentSelectorIdx>612</CurrentSelectorIdx>
+       <IsPreConformed>false</IsPreConformed>
+       <PreConformMediaExtents>00000100000030c20000010000003042</PreConformMediaExtents>
+       <MediaMetadata/>
+       <Thumbnail>
+        <BtThumnail DbId="1c3b200b-e96d-40d7-ab8b-16fa96413d33">
          <FieldsBlob/>
          <ImgWidth>-1</ImgWidth>
          <ImgHeight>-1</ImgHeight>
@@ -81,7 +130,7 @@
        <PrettyType/>
        <Name>00001.m2ts</Name>
        <Start>86400</Start>
-       <Duration>26522</Duration>
+       <Duration>11201</Duration>
        <LinkedItemSync/>
        <WasDisbanded>false</WasDisbanded>
        <MarkersBA/>
@@ -94,6 +143,66 @@
        <RenderTextGanged>false</RenderTextGanged>
        <RenderTextPrefixed>false</RenderTextPrefixed>
        <In>5163</In>
+       <MixedFrameRateAlignment>0</MixedFrameRateAlignment>
+       <MediaRef>f4ed09fb-ea95-4d3e-8bc2-37334bb5ace9</MediaRef>
+       <MediaStartTime>0</MediaStartTime>
+       <MediaFilePath>S:\Video-Files\Bleach Blu-ray Files\BLEACH SET 5 DISC 2\BDMV\STREAM\00001.m2ts</MediaFilePath>
+       <MediaReelNumber/>
+       <MediaFrameRate>872211b5dcf937400000000000000000</MediaFrameRate>
+       <MediaTimemapBA>024096fd0bbbbbbbbb</MediaTimemapBA>
+       <LastChangedTime>0</LastChangedTime>
+       <LastRenderedTime>0</LastRenderedTime>
+       <IsMarkedForCaching>false</IsMarkedForCaching>
+       <IsForceConformed>true</IsForceConformed>
+       <MatchConflictState>0</MatchConflictState>
+       <UseOppositeSrcForLeftEye>false</UseOppositeSrcForLeftEye>
+       <UseOppositeSrcForRightEye>false</UseOppositeSrcForRightEye>
+       <RenderCacheBA/>
+       <VirtualAudioTrackBA>000000010000000200000014004300680061006e006e0065006c0073004200410000000c000000001000000002000000022000400120004002000000120041007500640069006f0054007900700065000000020000000000</VirtualAudioTrackBA>
+       <MediaTrackIdx>0</MediaTrackIdx>
+      </Sm2TiAudioClip>
+     </Element>
+     <Element>
+      <Sm2TiTransition DbId="b28a6887-5b53-4d92-b9ce-d3276d2553d5">
+       <FieldsBlob/>
+       <PrettyType>Cross Fade 0DB</PrettyType>
+       <Name>Cross Fade 0 dB</Name>
+       <Start>97601</Start>
+       <Duration>12</Duration>
+       <LinkedItemSync/>
+       <WasDisbanded>false</WasDisbanded>
+       <MarkersBA/>
+       <UiMemento>0</UiMemento>
+       <Flags>0</Flags>
+       <PriorityIndex>0</PriorityIndex>
+       <EffectFiltersBA/>
+       <ImportExportMetadataBA/>
+       <RenderTextEnabled>true</RenderTextEnabled>
+       <RenderTextGanged>true</RenderTextGanged>
+       <RenderTextPrefixed>true</RenderTextPrefixed>
+       <AlignmentType>1</AlignmentType>
+       <Position>2</Position>
+      </Sm2TiTransition>
+     </Element>
+     <Element>
+      <Sm2TiAudioClip DbId="59378da4-5944-4e67-afbd-b247e9dfb00b">
+       <FieldsBlob>000000020000004f8128b52ffd20672d020062050e14a0a759036489f6cfbaf3e46eb2bcc02f3af6490a24809ac464bc685a34ece16079af20b1b4e73d4bb4689ef6681a12be6e01e4853a2a5503004b89c7a02e3c7348</FieldsBlob>
+       <PrettyType/>
+       <Name>00001.m2ts</Name>
+       <Start>97601</Start>
+       <Duration>15222</Duration>
+       <LinkedItemSync/>
+       <WasDisbanded>false</WasDisbanded>
+       <MarkersBA/>
+       <UiMemento>0</UiMemento>
+       <Flags>0</Flags>
+       <PriorityIndex>0</PriorityIndex>
+       <EffectFiltersBA/>
+       <ImportExportMetadataBA/>
+       <RenderTextEnabled>false</RenderTextEnabled>
+       <RenderTextGanged>false</RenderTextGanged>
+       <RenderTextPrefixed>false</RenderTextPrefixed>
+       <In>16463</In>
        <MixedFrameRateAlignment>0</MixedFrameRateAlignment>
        <MediaRef>f4ed09fb-ea95-4d3e-8bc2-37334bb5ace9</MediaRef>
        <MediaStartTime>0</MediaStartTime>

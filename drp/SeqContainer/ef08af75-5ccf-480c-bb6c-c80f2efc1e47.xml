@@ -17,14 +17,14 @@
        <PrettyType/>
        <Name>00014.m2ts</Name>
        <Start>86400</Start>
-       <Duration>27939</Duration>
+       <Duration>14070</Duration>
        <LinkedItemSync/>
        <WasDisbanded>false</WasDisbanded>
        <MarkersBA/>
        <UiMemento>0</UiMemento>
        <Flags>0</Flags>
        <PriorityIndex>0</PriorityIndex>
-       <EffectFiltersBA/>
+       <EffectFiltersBA>000000020000001d800a1a08481806380c4a004a10088a011a0b0a09110000000000004840</EffectFiltersBA>
        <ImportExportMetadataBA/>
        <RenderTextEnabled>true</RenderTextEnabled>
        <RenderTextGanged>true</RenderTextGanged>
@@ -50,7 +50,56 @@
        <PreConformMediaExtents>00000100000030c20000010000003042</PreConformMediaExtents>
        <MediaMetadata/>
        <Thumbnail>
-        <BtThumnail DbId="144ba0a4-b6c0-4a3a-9d03-bbcf6201ec06">
+        <BtThumnail DbId="c478ab09-833e-4004-bd65-aff59ff9ffdc">
+         <FieldsBlob/>
+         <ImgWidth>-1</ImgWidth>
+         <ImgHeight>-1</ImgHeight>
+         <Buffer/>
+        </BtThumnail>
+       </Thumbnail>
+       <ThumbnailDirtyFlag>true</ThumbnailDirtyFlag>
+      </Sm2TiVideoClip>
+     </Element>
+     <Element>
+      <Sm2TiVideoClip DbId="bc2c8fcf-49e0-4efb-a119-ee22834c2458">
+       <FieldsBlob>000000020000005f8128b52ffd2079ad02007206121cc025ad01ffffffff7fef2688e48b1bb31b698438fe083440a485b6536badf581824121a4ea4d9142236ad3334daac8d3da6b3c8b498b9ed7aa86b7783c1ede1c059423cc9984090300b85123a86bce5c17</FieldsBlob>
+       <PrettyType/>
+       <Name>00014.m2ts</Name>
+       <Start>100494</Start>
+       <Duration>13796</Duration>
+       <LinkedItemSync/>
+       <WasDisbanded>false</WasDisbanded>
+       <MarkersBA/>
+       <UiMemento>0</UiMemento>
+       <Flags>0</Flags>
+       <PriorityIndex>0</PriorityIndex>
+       <EffectFiltersBA>000000020000001d800a1a08481806380c4a100889011a0b0a091100000000000048404a00</EffectFiltersBA>
+       <ImportExportMetadataBA/>
+       <RenderTextEnabled>true</RenderTextEnabled>
+       <RenderTextGanged>true</RenderTextGanged>
+       <RenderTextPrefixed>true</RenderTextPrefixed>
+       <In>17907</In>
+       <MixedFrameRateAlignment>0</MixedFrameRateAlignment>
+       <MediaRef>a480b1dc-82da-4d2a-bd5e-aee40b89502c</MediaRef>
+       <MediaStartTime>0</MediaStartTime>
+       <MediaFilePath>S:\Video-Files\Bleach Blu-ray Files\BLEACH SET 5 DISC 1\BDMV\STREAM\00014.m2ts</MediaFilePath>
+       <MediaReelNumber/>
+       <MediaFrameRate>872211b5dcf937400000000000000000</MediaFrameRate>
+       <MediaTimemapBA>024096f98ad65b7a32</MediaTimemapBA>
+       <LastChangedTime>0</LastChangedTime>
+       <LastRenderedTime>0</LastRenderedTime>
+       <IsMarkedForCaching>false</IsMarkedForCaching>
+       <IsForceConformed>true</IsForceConformed>
+       <MatchConflictState>0</MatchConflictState>
+       <UseOppositeSrcForLeftEye>false</UseOppositeSrcForLeftEye>
+       <UseOppositeSrcForRightEye>false</UseOppositeSrcForRightEye>
+       <RenderCacheBA/>
+       <CurrentSelectorIdx>0</CurrentSelectorIdx>
+       <IsPreConformed>false</IsPreConformed>
+       <PreConformMediaExtents>00000100000030c20000010000003042</PreConformMediaExtents>
+       <MediaMetadata/>
+       <Thumbnail>
+        <BtThumnail DbId="9020374b-fa9a-425f-a0bb-9579b5db0e2b">
          <FieldsBlob/>
          <ImgWidth>-1</ImgWidth>
          <ImgHeight>-1</ImgHeight>
@@ -81,7 +130,7 @@
        <PrettyType/>
        <Name>00014.m2ts</Name>
        <Start>86400</Start>
-       <Duration>27939</Duration>
+       <Duration>14070</Duration>
        <LinkedItemSync/>
        <WasDisbanded>false</WasDisbanded>
        <MarkersBA/>
@@ -94,6 +143,44 @@
        <RenderTextGanged>false</RenderTextGanged>
        <RenderTextPrefixed>false</RenderTextPrefixed>
        <In>3764</In>
+       <MixedFrameRateAlignment>0</MixedFrameRateAlignment>
+       <MediaRef>a480b1dc-82da-4d2a-bd5e-aee40b89502c</MediaRef>
+       <MediaStartTime>0</MediaStartTime>
+       <MediaFilePath>S:\Video-Files\Bleach Blu-ray Files\BLEACH SET 5 DISC 1\BDMV\STREAM\00014.m2ts</MediaFilePath>
+       <MediaReelNumber/>
+       <MediaFrameRate>872211b5dcf937400000000000000000</MediaFrameRate>
+       <MediaTimemapBA>024096f98ad65b7a32</MediaTimemapBA>
+       <LastChangedTime>0</LastChangedTime>
+       <LastRenderedTime>0</LastRenderedTime>
+       <IsMarkedForCaching>false</IsMarkedForCaching>
+       <IsForceConformed>true</IsForceConformed>
+       <MatchConflictState>0</MatchConflictState>
+       <UseOppositeSrcForLeftEye>false</UseOppositeSrcForLeftEye>
+       <UseOppositeSrcForRightEye>false</UseOppositeSrcForRightEye>
+       <RenderCacheBA/>
+       <VirtualAudioTrackBA>000000010000000200000014004300680061006e006e0065006c0073004200410000000c000000001000000002000000022000400120004002000000120041007500640069006f0054007900700065000000020000000000</VirtualAudioTrackBA>
+       <MediaTrackIdx>0</MediaTrackIdx>
+      </Sm2TiAudioClip>
+     </Element>
+     <Element>
+      <Sm2TiAudioClip DbId="662a7f3a-03c2-4a33-bfc8-830454ab8af8">
+       <FieldsBlob>000000020000004f8128b52ffd20672d020062050e1490a75a0302088b1f7b49034874c7cc0ed0fe240523900e2254303dcf7bc9a16912c9e27ae51da2e4aaaea97aaa45c2db4bc078c1083b0b03007f25ce2df79d3924</FieldsBlob>
+       <PrettyType/>
+       <Name>00014.m2ts</Name>
+       <Start>100494</Start>
+       <Duration>13796</Duration>
+       <LinkedItemSync/>
+       <WasDisbanded>false</WasDisbanded>
+       <MarkersBA/>
+       <UiMemento>0</UiMemento>
+       <Flags>0</Flags>
+       <PriorityIndex>0</PriorityIndex>
+       <EffectFiltersBA>0000000200000020800a1d087c38004a004a0f08611a0b0a09115c61ebfdaf0648404a004a004a00</EffectFiltersBA>
+       <ImportExportMetadataBA/>
+       <RenderTextEnabled>false</RenderTextEnabled>
+       <RenderTextGanged>false</RenderTextGanged>
+       <RenderTextPrefixed>false</RenderTextPrefixed>
+       <In>17907</In>
        <MixedFrameRateAlignment>0</MixedFrameRateAlignment>
        <MediaRef>a480b1dc-82da-4d2a-bd5e-aee40b89502c</MediaRef>
        <MediaStartTime>0</MediaStartTime>
