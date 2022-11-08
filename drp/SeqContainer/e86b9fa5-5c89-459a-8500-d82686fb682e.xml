@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--DbAppVer="18.0.4.0005" DbPrjVer="11"-->
+<Sm2SequenceContainer DbId="e86b9fa5-5c89-459a-8500-d82686fb682e">
+ <FieldsBlob>000000010000000100000016004400620053006100760065006400540069006d006500000004000000000a54cc7a7f</FieldsBlob>
+ <VideoTrackVec>
+  <Element>
+   <Sm2TiTrack DbId="21ef9bea-6e9c-490b-8463-69807a0d216c">
+    <FieldsBlob>000000010000000100000012004e0075006d004c00610079006500720073000000020000000000</FieldsBlob>
+    <Type>0</Type>
+    <SubType>7475234</SubType>
+    <Flags>0</Flags>
+    <Sequence>ca381bdb-b80c-4e0f-8cfd-421070ddb397</Sequence>
+    <Items/>
+    <UserDefinedName/>
+    <LayersVec/>
+   </Sm2TiTrack>
+  </Element>
+ </VideoTrackVec>
+ <AudioTrackVec>
+  <Element>
+   <Sm2TiTrack DbId="c1a56222-b66a-420b-b9d6-3c4f3cc9f798">
+    <FieldsBlob>000000010000000200000012004e0075006d004c006100790065007200730000000200000000000000003e004500780063006c0075006400650054007200610063006b00460072006f006d00530065007100750065006e0063006500430061006300680069006e0067000000010001</FieldsBlob>
+    <Type>1</Type>
+    <SubType>0</SubType>
+    <Flags>0</Flags>
+    <Sequence>ca381bdb-b80c-4e0f-8cfd-421070ddb397</Sequence>
+    <Items/>
+    <UserDefinedName/>
+    <LayersVec/>
+   </Sm2TiTrack>
+  </Element>
+ </AudioTrackVec>
+ <SubtitleTrackVec/>
+</Sm2SequenceContainer>
