@@ -50,7 +50,7 @@
        <PreConformMediaExtents>00000100000030c20000010000003042</PreConformMediaExtents>
        <MediaMetadata/>
        <Thumbnail>
-        <BtThumnail DbId="3d19ebf3-083b-4fb4-a633-8effb7a29300">
+        <BtThumnail DbId="cb327ea3-91b2-4502-a12d-1ba405db2c4e">
          <FieldsBlob/>
          <ImgWidth>-1</ImgWidth>
          <ImgHeight>-1</ImgHeight>
@@ -66,7 +66,7 @@
        <PrettyType/>
        <Name>00012.m2ts</Name>
        <Start>86643</Start>
-       <Duration>2063</Duration>
+       <Duration>211</Duration>
        <LinkedItemSync/>
        <WasDisbanded>false</WasDisbanded>
        <MarkersBA/>
@@ -99,7 +99,7 @@
        <PreConformMediaExtents>00000100000030c20000010000003042</PreConformMediaExtents>
        <MediaMetadata/>
        <Thumbnail>
-        <BtThumnail DbId="bb18e98c-7552-49bd-9090-c987e23dd0bd">
+        <BtThumnail DbId="856dab83-2695-418e-8f19-1d9779ffce86">
          <FieldsBlob/>
          <ImgWidth>-1</ImgWidth>
          <ImgHeight>-1</ImgHeight>
@@ -168,7 +168,7 @@
        <PrettyType/>
        <Name>00012.m2ts</Name>
        <Start>86643</Start>
-       <Duration>2063</Duration>
+       <Duration>211</Duration>
        <LinkedItemSync/>
        <WasDisbanded>false</WasDisbanded>
        <MarkersBA/>
